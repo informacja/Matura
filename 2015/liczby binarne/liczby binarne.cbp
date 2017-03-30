@@ -11,7 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters='&quot;C:\Users\Puler\Desktop\liczby binarne\liczby.txt&quot; ' />
+				<Option parameters='&quot;F:\2015\liczby binarne\liczby.txt&quot; ' />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
