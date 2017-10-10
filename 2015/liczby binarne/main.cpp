@@ -41,7 +41,7 @@ void zdanie4_2()
                 if ( tab[i][ tab[i].length()-3 ] == '0' )
                     divide_by_8++;
         }
-        //cout << tab[i] << endl; //wyœwietlenie linii
+        //cout << tab[i] << endl; //wyÅ“wietlenie linii
     }
 
     cout << "\nPlik ma " << tab.size() << " lini" << endl;
@@ -50,11 +50,49 @@ void zdanie4_2()
 
 }
 
+// ------------------------------------------------------------------------
+
+void find_the_most(  vector <int> &vMin, int length, bool find_smaller )
+{
+    unsigned pos = 1;
+
+    char bit     = ( find_smaller  ) ? '0' : '1';
+    char bit_neg = ( !find_smaller ) ? '0' : '1';
+
+    while( pos < length )
+    {
+        bool is_one = true;    /// czy jest jedynka bitowa
+
+        for( int i = 0; i < vMin.size(); i++ )
+        {
+            //if ( vMin.size == 1 ) break;
+            if ( tab[ vMin[i] ][pos] == bit )
+            {
+                is_one = false;
+
+                break;
+            }
+        }
+
+        for( int i = 0; i < vMin.size(); i++ )      /// usuwa
+        {
+            if ( vMin.size() == 1 ) break;
+
+            if ( tab[ vMin[i] ][pos] == bit_neg && is_one == false )
+            {
+                vMin.erase( vMin.begin() + i );
+                i--;
+            }
+        }
+        pos++;
+    }
+}
+
 void zdanie4_3()
 {
     int Min = tab[0].length(), Max = tab[0].length();
 
-    for( int i = 1; i < tab.size(); i++ )
+    for( int i = 1; i < tab.size(); i++ )       // znajdujemy najkrÃ³tsze ciÄ…gi
     {
         if ( tab[i].length() < Min )
         {
@@ -78,60 +116,65 @@ void zdanie4_3()
             vMax.push_back( i );
     }
 
-    for ( int i : vMin )
+    for ( int i : vMin )    // liczby o najmniejszej dlugosci
     {
-        cout << tab[ i ] << endl;
+        cout << "[ " << i << " ] = " << tab[ i ] << endl;
     }
+
+
+//    unsigned pos = 1;
+
+    find_the_most( vMin, Min, true );
+
+    find_the_most( vMax, Max, false );
+
+//    while( pos < Min )
+//    {
+//        bool is_one = true;    /// czy jest jedynka bitowa
+//
+//        for( int i = 0; i < vMin.size(); i++ )
+//        {
+//            //if ( vMin.size == 1 ) break;
+//            if ( tab[ vMin[i] ][pos] == '0' )
+//            {
+//                is_one = false;
+//
+//                break;
+//            }
+//        }
+//
+//        for( int i = 0; i < vMin.size(); i++ )      /// usuwa
+//        {
+//            if ( vMin.size() == 1 ) break;
+//
+//            if ( tab[ vMin[i] ][pos] == '1' && is_one == false )
+//            {
+//                vMin.erase( vMin.begin() + i );
+//                i--;
+//            }
+//        }
+//        pos++;
+//    }
 
     cout << endl;
 
-    for ( int i : vMin )
-    {
-        cout << i << endl;
-    }
-    cout << endl;
-
-    unsigned pos = 1;
-
-    while( pos < Min )
-    {
-        bool is_one = true;    /// czy jest jedynka bitowa
-
-        for( int i = 0; i < vMin.size(); i++ )
-        {
-            //if ( vMin.size == 1 ) break;
-            if ( tab[ vMin[i] ][pos] == '0' )
-            {
-                is_one = false;
-
-                break;
-            }
-        }
-
-        for( int i = 0; i < vMin.size(); i++ )      /// usuwa
-        {
-             if ( vMin.size() == 1 ) break;
-
-            if ( tab[ vMin[i] ][pos] == '1' && is_one == false )
-            {
-                vMin.erase( vMin.begin() + i );
-                i--;
-            }
-        }
-        pos++;
-    }
-
-    cout << endl;
     for ( int i = 0; i < vMin.size(); i++ )
     {
-        cout << vMin[i] << endl;
+        cout << "Numer lini z najmniejsza liczba: " << vMin[i] << endl;
+    }
+
+    for ( int i = 0; i < vMax.size(); i++ )
+    {
+        cout << "Numer lini z najwieksza liczba: " << vMax[i] << endl;
     }
 
 
-    cout << "Rozmiar vMin: " << vMin.size() << endl;
+
+//    cout << "Rozmiar vMin: " << vMin.size() << endl;
     cout << "Rozmiar vMax: " << vMax.size() << endl;
     //for ( int i : vMax )
       //  cout << "Linia max: " << i << endl;
+
 }
 
 int main( int argc, char* arg[] )
@@ -139,7 +182,7 @@ int main( int argc, char* arg[] )
     string linia;
     fstream plik;
 
-    //ios_base::sync_with_stdio(0);					// wymaganie przez Organizatorów (przyœpiesza strumienie)
+    //ios_base::sync_with_stdio(0);					// wymaganie przez OrganizatorÃ³w (przyÅ“piesza strumienie)
 
     if ( argc < 2 )
     {
@@ -148,7 +191,8 @@ int main( int argc, char* arg[] )
        cin.ignore();
        getchar();
        return -1;
-    }zdanie4_1();
+    }
+
     cout << arg[1] << endl;
 
         plik.open( arg[1], ios::in );
