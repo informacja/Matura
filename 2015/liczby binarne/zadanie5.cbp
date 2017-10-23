@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="liczby binarne" />
+		<Option title="zadanie5" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -11,7 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters='&quot;C:\Users\Puler\Desktop\liczby binarne\liczby.txt&quot; ' />
+				<Option parameters="liczby.txt" />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
@@ -33,7 +33,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="main5.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
