@@ -11,7 +11,11 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
+<<<<<<< HEAD:2015/liczby binarne/zadanie4.cbp
 				<Option parameters="liczby.txt" />
+=======
+				<Option parameters='&quot;F:\2015\liczby binarne\liczby.txt&quot; ' />
+>>>>>>> origin/master:2015/liczby binarne/liczby binarne.cbp
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
