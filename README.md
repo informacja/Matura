@@ -17,8 +17,7 @@ YT:
 1. Skopiuj formułę <kbd>Ctrl</kbd> + <kbd>C</kbd> <br>
 2. Otwórz okienko "prechodzenia do" <kbd>Ctrl</kbd> + <kbd>G</kbd><br>
 3. Wprowadz zakres np. <i>A1:C4</i> <br>
-4. Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd><br>
-
+4. Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd><br><br>
 
 <img style="margin-top: 10px;" src="./2017/gif/go.gif" href=""  alt="gif"/>
 
