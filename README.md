@@ -21,3 +21,7 @@ apply formula to many
 3.Wprowadz zakres np. A1:C4 
 4.Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd>
 
+
+<h2>Simple tutorial how to use command line git on RPi (configured):</h2>
+
+<img src="./obj/test.gif" href="" alt="gif"/>
