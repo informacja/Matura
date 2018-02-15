@@ -11,5 +11,9 @@ https://www.p-programowanie.pl/dzial/matura-z-informatyki/
 YT:
 
 (2015)   https://www.youtube.com/channel/UCvYGnBvCHhwaGMQWBpxqhGQ/videos
-
 (2017.6) https://www.youtube.com/watch?v=iqY_b25m7F8
+
+# Tips & Trips  
+#2 apply formula to many
+<kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
+
