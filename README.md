@@ -20,5 +20,5 @@ YT:
 4. Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd><br>
 
 
-<img src="./2017/gif/go.gif" href="" style="margin-top: 10px;" alt="gif"/>
+<img style="margin-top: 10px;" src="./2017/gif/go.gif" href=""  alt="gif"/>
 
