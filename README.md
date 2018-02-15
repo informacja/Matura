@@ -1,9 +1,11 @@
 # Matura z informatyki
-Obecnie ukończone jest rozwiązanie matury z roku 2015.
 
-Rozwiązania z roku <a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> są na tej stronie <a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
+Znajdziesz tu rozwiązania, materiały i linki, które mogą się przydać.
 
-Z roku 2017 rozwiązane jest tylko 1 zadanie w języku C++ (napisanie tego kodu trało około 2 godzin), dlatego warto rozwiązywać zadania w excelu.
+Rozwiązania z roku <a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> <a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
+
+Zadania praktyczne najlepiej rozwiązywać w Excelu lub poprzez zapytania do bazy danych.
+Pisanie aplikacji w C++ już nie ma sensu, bo trwa to zbyt długo. Dla przykładu to zadanie napisałem w 2 godziny <a href='./2017'> 2017.4 C++ </a> w excelu wystarcy niecała minuta. Tak że tego ...
 
 https://www.p-programowanie.pl/dzial/matura-z-informatyki/<br>
 
