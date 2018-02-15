@@ -13,15 +13,13 @@ YT:
 (2015)   https://www.youtube.com/channel/UCvYGnBvCHhwaGMQWBpxqhGQ/videos
 (2017.6) https://www.youtube.com/watch?v=iqY_b25m7F8
 
-# Excel - Tips & Tricks  
-apply formula to many
-<kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
-1.Skopiuj formułę <kbd>Ctrl</kbd> + <kbd>C</kbd>
-2.Otwórz okienko "prechodzenia do" <kbd>Ctrl</kbd> + <kbd>G</kbd>
-3.Wprowadz zakres np. A1:C4 
-4.Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd>
+<h2>Excel - Tips & Tricks  </h2>
+
+1.Skopiuj formułę <kbd>Ctrl</kbd> + <kbd>C</kbd> <br>
+2.Otwórz okienko "prechodzenia do" <kbd>Ctrl</kbd> + <kbd>G</kbd><br/>
+3.Wprowadz zakres np. A1:C4 <br>
+4.Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd><br>
 
 
-<h2>Simple tutorial how to use command line git on RPi (configured):</h2>
 
-<img src="./obj/test.gif" href="" alt="gif"/>
+<img src="./2017/gif/go.gif" href="" alt="gif"/>
