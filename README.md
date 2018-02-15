@@ -5,7 +5,7 @@ Znajdziesz tu rozwiązania, materiały i linki, które mogą się przydać.
 Rozwiązania z roku <a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> <a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
 
 Zadania praktyczne najlepiej rozwiązywać w Excelu lub poprzez zapytania do bazy danych.
-Pisanie aplikacji w C++ już nie ma sensu, bo trwa to zbyt długo. Dla przykładu to zadanie napisałem w 2 godziny <a href='./2017/zadanie_4/main.cpp'> 2017.4 C++ </a> w excelu wystarcy kilka minut. Tak że tego ...
+Pisanie aplikacji w C++ już nie ma sensu, bo trwa zbyt długo. Dla przykładu to zadanie napisałem w 2 godziny (co prawda z licznymi komentarzami) <a href='./2017/zadanie_4/main.cpp'> 2017.4 C++ </a> w excelu wystarcy kilka minut. Tak że tego ...
 
 https://www.p-programowanie.pl/dzial/matura-z-informatyki/<br>
 
