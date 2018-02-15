@@ -13,7 +13,11 @@ YT:
 (2015)   https://www.youtube.com/channel/UCvYGnBvCHhwaGMQWBpxqhGQ/videos
 (2017.6) https://www.youtube.com/watch?v=iqY_b25m7F8
 
-# Tips & Trips  
-#2 apply formula to many
+# Excel - Tips & Tricks  
+apply formula to many
 <kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
+1.Skopiuj formułę <kbd>Ctrl</kbd> + <kbd>C</kbd>
+2.Otwórz okienko "prechodzenia do" <kbd>Ctrl</kbd> + <kbd>G</kbd>
+3.Wprowadz zakres np. A1:C4 
+4.Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd>
 
