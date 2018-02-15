@@ -18,6 +18,6 @@ YT:
 2.Otwórz okienko "prechodzenia do" <kbd>Ctrl</kbd> + <kbd>G</kbd><br>
 3.Wprowadz zakres np. A1:C4 <br>
 4.Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd><br>
+<hr>
 <img src="./2017/gif/go.gif" href="" alt="gif"/>
-
 <hr>
