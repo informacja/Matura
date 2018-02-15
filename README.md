@@ -1,6 +1,6 @@
 # Matura z informatyki
 
-Znajdziesz tu rozwiązania, materiały i linki, które mogą się przydać.
+Są tu rozwiązania, materiały i linki, które mogą się przydać do ćwiczeń.
 
 Rozwiązania z roku <a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> <a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
 
