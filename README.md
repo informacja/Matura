@@ -35,10 +35,9 @@ Strony z rozwiązaniami (niesprawdzone):<br>
 (Excel) <a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a>  <br>
 (C++ :D)  https://github.com/j000/Matury 
 
-Artykuły:
-
+Artykuły:<br>
 https://www.p-programowanie.pl/dzial/matura-z-informatyki/<br>
 
-YT:
+YT:<br>
 (2015)   https://www.youtube.com/channel/UCvYGnBvCHhwaGMQWBpxqhGQ/videos<br>
 (2017.6) https://www.youtube.com/watch?v=iqY_b25m7F8<br>
