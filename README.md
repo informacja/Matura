@@ -25,16 +25,12 @@ No, to do rzeczy.
 <h2> Inne takie ... </h2>
 
 Strony z rozwiązaniami (niesprawdzone):<br>
-<a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> (Excel) <br>
-<a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
-
-https://github.com/j000/Matury (C++ :D)
+(Excel)<a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a>  <br>
+(C++ :D) https://github.com/j000/Matury 
 
 Artykuły:
-
 https://www.p-programowanie.pl/dzial/matura-z-informatyki/<br>
 
 YT:
-
 (2015)   https://www.youtube.com/channel/UCvYGnBvCHhwaGMQWBpxqhGQ/videos<br>
 (2017.6) https://www.youtube.com/watch?v=iqY_b25m7F8<br>
