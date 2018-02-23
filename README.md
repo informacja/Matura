@@ -32,8 +32,8 @@ No, to do rzeczy.
 <h2> Inne takie ... </h2>
 
 Strony z rozwiązaniami (niesprawdzone):<br>
-(Excel) <a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a>  <br>
 (C++ :D)  https://github.com/j000/Matury 
+(Excel) <a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a>  <br>
 
 Artykuły:<br>
 https://www.p-programowanie.pl/dzial/matura-z-informatyki/<br>
