@@ -22,6 +22,13 @@ No, to do rzeczy.
 
 <img style="margin-top: 10px;" src="./2017/gif/dbclick.gif" href=""  alt="gif"/>
 
+<h4>Zaznaczanie komórek w pionie i poziomie</h4>
+1. Wybierz komórkę początkową, następnie naciśnij <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>→</kbd> <br>
+2. Zaznaczenie roszeżamy skrótem <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd> <br>
+<i> Ograniczeniem zaznaczenia są puste komórki </i> <br>
+
+<img style="margin-top: 10px;" src="./2017/gif/down.gif" href=""  alt="gif"/>
+
 <h2> Inne takie ... </h2>
 
 Strony z rozwiązaniami (niesprawdzone):<br>
