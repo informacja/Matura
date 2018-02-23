@@ -16,6 +16,12 @@ No, to do rzeczy.
 
 <img style="margin-top: 10px;" src="./2017/gif/go.gif" href=""  alt="gif"/>
 
+<h4>Formuła aż do końca, końca, końcaaa ...</h4>
+1. Upewni się że komórka z formułą przylega do innej kolumny z danymi po lewej <br>
+2. Dwa razy kliknij w mały kwadracik komórki z formułą<br>
+
+<img style="margin-top: 10px;" src="./2017/gif/dbclick.gif" href=""  alt="gif"/>
+
 <h2> Inne takie ... </h2>
 
 Rozwiązania z roku <a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> <a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
