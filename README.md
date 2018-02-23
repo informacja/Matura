@@ -18,16 +18,17 @@ No, to do rzeczy.
 
 <h4>Formuła aż do końca, końca, końcaaa ...</h4>
 1. Upewni się że komórka z formułą przylega do innej kolumny z danymi po lewej <br>
-2. Dwa razy kliknij w mały kwadracik komórki z formułą<br>
+2. Dwa razy kliknij w mały kwadracik komórki z formułą<br><br>
 
 <img style="margin-top: 10px;" src="./2017/gif/dbclick.gif" href=""  alt="gif"/>
 
 <h2> Inne takie ... </h2>
 
-Strony z rozwiązaniami (niesprawdzone):
-<a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> <a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
+Strony z rozwiązaniami (niesprawdzone):<br>
+<a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> (Excel) <br>
+<a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
 
-https://github.com/j000/Matury
+https://github.com/j000/Matury (C++ :D)
 
 Artykuły:
 
