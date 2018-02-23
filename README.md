@@ -24,7 +24,12 @@ No, to do rzeczy.
 
 <h2> Inne takie ... </h2>
 
-Rozwiązania z roku <a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> <a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
+Strony z rozwiązaniami (niesprawdzone):
+<a href='http://maturainformatyka.pl/matura-2016/81-matura-2016-czesc-ii'>2016 </a> <a href='http://maturainformatyka.pl'>maturainformatyka.pl </a>
+
+https://github.com/j000/Matury
+
+Artykuły:
 
 https://www.p-programowanie.pl/dzial/matura-z-informatyki/<br>
 
