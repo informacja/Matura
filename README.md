@@ -26,8 +26,15 @@ No, to do rzeczy.
 1. Wybierz komórkę początkową, następnie naciśnij <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>→</kbd> <br>
 2. Zaznaczenie rozszerzamy skrótem <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd> <br>
 <i> Ograniczeniem zaznaczenia są puste komórki </i> <br> <br>
-
+<hr>
 <img style="margin-top: 10px;" src="./2017/gif/down.gif" href=""  alt="gif"/>
+
+<h4>Wklejanie z transpozycją</h4>
+1. Skopiuj zawartość komórki do schowka systemowego <kbd>Ctrl</kbd> + <kbd>C</kbd> <br>
+2. Wklej z zaznaczoną opcją Transpozycja <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd> <br>
+
+<img style="margin-top: 10px;" src="./2017/gif/transpozycja.gif" href=""  alt="gif"/>
+
 
 <h2> Inne takie ... </h2>
 
