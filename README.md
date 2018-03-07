@@ -14,26 +14,26 @@ No, to do rzeczy.
 3. Wprowadz zakres np. <i>A1:C4</i> <br>
 4. Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd><br><br>
 
-<img style="margin-top: 10px;" src="./2017/gif/go.gif" href=""  alt="gif"/>
+<img style="margin-top: 10px;" src="./2017/gif/go.gif" href=""  alt="gif"/><hr>
 
 <h4>Formuła aż do końca, końca, końcaaa ...</h4>
 1. Upewni się że komórka z formułą przylega do innej kolumny z danymi po lewej <br>
 2. Dwa razy kliknij w mały kwadracik komórki z formułą<br><br>
 
-<img style="margin-top: 10px;" src="./2017/gif/dbclick.gif" href=""  alt="gif"/>
+<img style="margin-top: 10px;" src="./2017/gif/dbclick.gif" href=""  alt="gif"/><hr>
 
 <h4>Zaznaczanie komórek w pionie i poziomie</h4>
 1. Wybierz komórkę początkową, następnie naciśnij <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>→</kbd> <br>
 2. Zaznaczenie rozszerzamy skrótem <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd> <br>
 <i> Ograniczeniem zaznaczenia są puste komórki </i> <br> <br>
-<hr>
-<img style="margin-top: 10px;" src="./2017/gif/down.gif" href=""  alt="gif"/>
+
+<img style="margin-top: 10px;" src="./2017/gif/down.gif" href=""  alt="gif"/><hr>
 
 <h4>Wklejanie z transpozycją</h4>
 1. Skopiuj zawartość komórki do schowka systemowego <kbd>Ctrl</kbd> + <kbd>C</kbd> <br>
 2. Wklej z zaznaczoną opcją Transpozycja <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd> <br>
 
-<img style="margin-top: 10px;" src="./2017/gif/transpozycja.gif" href=""  alt="gif"/>
+<img style="margin-top: 10px;" src="./2017/gif/transpozycja.gif" href=""  alt="gif"/><hr>
 
 
 <h2> Inne takie ... </h2>
