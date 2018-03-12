@@ -1,6 +1,6 @@
 # Matura z informatyki
 
-W katalogach oznaczonych rokiem są rozwiązania matur rozwiązań praktycznch <i>(*.xlsx)</>. W podfolderach <i>CKE informatyka</i> jest arkusz maturalny razem z sposobem oceniania(N) i danymi do zadań.<br> <a href='./2016/'> 2016</a> <br><a href='./2017/'> 2017</a> <br> 
+W katalogach oznaczonych rokiem są rozwiązania matur rozwiązań praktycznch <i>(*.xlsx)</i>. W podfolderach <i>CKE informatyka</i> jest arkusz maturalny razem z sposobem oceniania(N) i danymi do zadań.<br> <a href='./2016/'> 2016</a> <br><a href='./2017/'> 2017</a> <br> 
 
 Zadania praktyczne najlepiej rozwiązywać w Excelu lub poprzez zapytania do bazy danych.
 Pisanie aplikacji w C++ już nie ma sensu, bo trwa zbyt długo. Dla przykładu to zadanie napisałem w 2 godziny (co prawda z licznymi komentarzami) <a href='./2017/zadanie_4/main.cpp'> 2017.4 C++ </a> w excelu wystarczy kilka minut. Tak że tego ...
