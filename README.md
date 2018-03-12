@@ -1,6 +1,6 @@
 # Matura z informatyki
 
-W katalogach oznaczonych rokiem są rozwiązania matur praktycznch <i>(*.xlsx)</i>. W podfolderach <i>CKE informatyka</i> jest arkusz maturalny razem z sposobem oceniania(N) i danymi do zadań.<br> <a href='./2016/'> 2016</a> <a href='./2017/'> 2017</a> 
+W katalogach oznaczonych rokiem są rozwiązania matur praktycznch <i>(*.xlsx)</i>. W podfolderach <i>CKE informatyka</i> jest arkusz maturalny razem z sposobem oceniania(N) i danymi do zadań. <a href='./2016/'> 2016</a> <a href='./2017/'> 2017</a> 
 
 Zadania praktyczne najlepiej rozwiązywać w Excelu lub poprzez zapytania do bazy danych.
 Pisanie aplikacji w C++ już nie ma sensu, bo trwa zbyt długo. Dla przykładu to zadanie napisałem w 2 godziny (co prawda z licznymi komentarzami) <a href='./2017/zadanie_4/main.cpp'> 2017.4 C++ </a> w excelu wystarczy kilka minut. Tak że tego ...
@@ -30,7 +30,7 @@ No, to do rzeczy.
 
 <h4>Wklejanie z transpozycją</h4>
 1. Skopiuj zawartość komórki do schowka systemowego <kbd>Ctrl</kbd> + <kbd>C</kbd> <br>
-2. Wklej z zaznaczoną opcją Transpozycja <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd> <br>
+2. Wklej z zaznaczoną opcją Transpozycja <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd> <br><br>
 
 <img style="margin-top: 10px;" src="./2017/gif/transpozycja.gif" href=""  alt="gif"/><hr>
 
