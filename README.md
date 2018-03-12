@@ -1,10 +1,9 @@
 # Matura z informatyki
 
-W katalogach są rozwiązania matur rozwiązań praktycznch (na komputerze). W podfolderach "PDF" jest arkusz maturalny i sposób oceniania(N)
+W katalogach są rozwiązania matur rozwiązań praktycznch (na komputerze). W podfolderach "CKE informatyka" jest arkusz maturalny razem z sposobem oceniania(N) i danymi do zadań.
 
 Zadania praktyczne najlepiej rozwiązywać w Excelu lub poprzez zapytania do bazy danych.
 Pisanie aplikacji w C++ już nie ma sensu, bo trwa zbyt długo. Dla przykładu to zadanie napisałem w 2 godziny (co prawda z licznymi komentarzami) <a href='./2017/zadanie_4/main.cpp'> 2017.4 C++ </a> w excelu wystarczy kilka minut. Tak że tego ...
-
 No, to do rzeczy.
 
 <h2>Excel - Tips & Tricks  </h2>
