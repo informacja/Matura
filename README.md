@@ -43,6 +43,7 @@ Strony z rozwiązaniami (niesprawdzone):<br>
 
 Artykuły:<br>
 https://www.p-programowanie.pl/dzial/matura-z-informatyki/<br>
+https://www.reddit.com/r/excel/<br>
 
 YT:<br>
 (2015)   https://www.youtube.com/channel/UCvYGnBvCHhwaGMQWBpxqhGQ/videos<br>
