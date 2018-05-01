@@ -48,3 +48,5 @@ https://www.reddit.com/r/excel/<br>
 YT:<br>
 (2015)   https://www.youtube.com/channel/UCvYGnBvCHhwaGMQWBpxqhGQ/videos<br>
 (2017.6) https://www.youtube.com/watch?v=iqY_b25m7F8<br>
+
+Arkusze matur http://maturana6.pl/informatyka
