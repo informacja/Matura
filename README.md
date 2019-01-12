@@ -9,7 +9,7 @@ No, to do rzeczy.
 <h2>Excel - Tips & Tricks  </h2>
 <h4>Przenoszenie formuły na wiele komórek</h4>
 1. Skopiuj formułę <kbd>Ctrl</kbd> + <kbd>C</kbd> <br>
-2. Otwórz okienko "prechodzenia do" <kbd>Ctrl</kbd> + <kbd>G</kbd><br>
+2. Otwórz okienko "przechodzenia do" <kbd>Ctrl</kbd> + <kbd>G</kbd><br>
 3. Wprowadz zakres np. <i>A1:C4</i> <br>
 4. Zastosuj formłę ze schowka <kbd>Ctrl</kbd> + <kbd>V</kbd><br><br>
 
