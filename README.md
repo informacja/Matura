@@ -35,7 +35,7 @@ No, to do rzeczy.
 <img style="margin-top: 10px;" src="./2017/gif/transpozycja.gif" href=""  alt="gif"/><hr>
 
 
-<h2> Inne takie ... </h2>
+<h2> Inne przydatne ... </h2>
 
 Strony z rozwiązaniami (niesprawdzone):<br>
 (C++ :D)  https://github.com/j000/Matury  <br>
